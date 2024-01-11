@@ -1,0 +1,13 @@
+[
+    {
+        "name": "League of Legends",
+        "url": "https://link-zu-lol.com",
+        "categories": ["game", "moba"]
+    },
+    {
+        "name": "Call of Duty",
+        "url": "https://link-zu-cod.com",
+        "categories": ["game", "shooter"]
+    }
+    
+]
